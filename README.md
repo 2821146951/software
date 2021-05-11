@@ -1,2 +1,2 @@
 # software
-ppp
+这是一个Java
